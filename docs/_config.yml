@@ -26,7 +26,7 @@ lang: ru
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 google_analytics: UA-132358073-1
 
 plugins:
