@@ -16,7 +16,8 @@
 title: Сайт жильцов Квартала "Нескучный Сад", Новая Боровая
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Призвано стать площадкой на которой жители квартала смогут полезную для себя информацию .. позже
+  Жители и дольщики домов строящихся в квартале Нескучный Сад из Новой Боровой смогут найти полезную для себя информацию.
+  Уже сейчас доступен телеграмм канал для общения
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ksad.by" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
